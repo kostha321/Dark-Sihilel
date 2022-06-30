@@ -1,6 +1,6 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              ♥️HIRU𝚄_QUEEN 𝓫𝔂 Sihilel♥️
+//                              ♥️HIRU𝚄_QUEEN 𝓫𝔂 Niko♥️
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════════════════════//
@@ -24,7 +24,7 @@ global.premium = ['94763332698']
 global.ownernomer = '94763332698'
 global.ownername = '❤️ℕ𝕀𝕂𝕆❤️'
 global.botname = '❤️𝙷𝙸𝚁𝚄𝚄_𝚀𝚄𝙴𝙴𝙽_𝙱𝙾𝚃❤️'
-global.footer = '©Sihilel.'
+global.footer = '©Niko.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://chat.whatsapp.com/JJPj637jjvMFrMYqxVPTDa'
