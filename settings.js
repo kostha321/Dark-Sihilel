@@ -19,10 +19,10 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94704101989']
-global.premium = ['94704101989']
-global.ownernomer = '94704101989'
-global.ownername = '❤️S_I_H_I_L_E_L❤️'
+global.owner = ['94763332698']
+global.premium = ['94763332698']
+global.ownernomer = '94763332698'
+global.ownername = '❤️ℕ𝕀𝕂𝕆❤️'
 global.botname = '❤️𝙷𝙸𝚁𝚄𝚄_𝚀𝚄𝙴𝙴𝙽_𝙱𝙾𝚃❤️'
 global.footer = '©Sihilel.'
 global.ig = 'https://github.com/nexusNw'
@@ -30,7 +30,7 @@ global.region = 'India, South India, Kerala'
 global.sc = 'https://chat.whatsapp.com/JJPj637jjvMFrMYqxVPTDa'
 global.myweb = '\nhttps://sites.google.com/view/hiruu-queen-bot/home\n\n🔥༺HIRUU༒QUEEN༻🔥'
 global.packname = '❤️HIRUU-QUEEN❤️'
-global.author = '❤️S_I_H_I_L_E_L❤️'
+global.author = '❤️ℕ𝕀𝕂𝕆❤️'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
